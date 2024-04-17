@@ -1,6 +1,6 @@
 ### Modular Monolith
 
-### Monolith Va Microservice
+### Monolith vs Microservice
 
 ### Monolith.
 
